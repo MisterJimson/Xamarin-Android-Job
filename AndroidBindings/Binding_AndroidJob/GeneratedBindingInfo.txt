@@ -1,0 +1,8 @@
+Binding for:
+com.evernote:android-job:1.0.6
+
+Dependencies:
+
+android-job-1.0.6.aar,    Path=C:\Users\Jason.Rai\.gradle\caches\modules-2\files-2.1\com.evernote\android-job\1.0.6\381a68a7562c93e0064455555d926196a0e1fb38\android-job-1.0.6.aar
+	cat-1.0.4.aar,    Path=C:\Users\Jason.Rai\.gradle\caches\modules-2\files-2.1\net.vrallev.android\cat\1.0.4\ae3cf29ab1a625fc60fdd74bd9343a9c524334b2\cat-1.0.4.aar
+	support-annotations-23.4.0.jar,    Path=C:\Users\Jason.Rai\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar
